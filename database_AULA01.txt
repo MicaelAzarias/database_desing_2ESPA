@@ -1,0 +1,21 @@
+introdução: conceito gerais sobre bancos de dados
+desenhar banco de dados 
+ferramenta CASE para projeto de BD 
+
+
+banco de dados = armazena dados, relacional, os dados coletados são guardados no banco de dados 
+
+O que são dados? são informações armazenadas sem contexto, precisa ser lapidado para gerar uma informaçõa, ele tbm pode ser incorreto 
+
+o que são informações? são dados contextualizados
+
+Por que é tão importante?
+    Dados/informações são importantes, pois nós não conseguimos 
+    guardar todas as informações na cabeça, e dados/informações guardam historias, e 
+    Armazenam informações 
+
+nas aulas vamos falar sobre: banco de dados,  
+
+
+dados ==> processo de transformação ==> informaçõa
+
